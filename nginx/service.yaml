@@ -8,6 +8,6 @@ spec:
     app: nginx
   ports:
   - name: http
-    port: 80
+    port: 808
     targetPort: 80
   type: ClusterIP
